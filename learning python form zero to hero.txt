@@ -1,2 +1,3 @@
 ###Note improtance###
 20230220: learning python form zero to hero
+https://toidicode.com/tong-quan-ve-python-161.html
